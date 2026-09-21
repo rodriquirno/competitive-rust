@@ -1,0 +1,14 @@
+#temp
+templates/
+
+#cf
+codeforces/*
+!codeforces/src/
+!codeforces/README.md
+
+#tests
+/tests
+test.ps1
+
+#notes
+/notes

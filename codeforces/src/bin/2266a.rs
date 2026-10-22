@@ -1,4 +1,4 @@
-// 115A. Party
+// 2266A. Good Contest
 
 #![allow(unused)]
 
